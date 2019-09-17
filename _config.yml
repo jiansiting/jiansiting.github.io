@@ -1,9 +1,9 @@
 # Site settings
 title: 剑思庭 Blog
-SEOTitle: 剑思庭的博客 | 剑思庭 Blog
+SEOTitle: 剑思庭的博客 | 美貌及智慧并重，工控与安全化身
 header-img: img/post-bg-desk.jpg
 email: jiansiting@gmail.com
-description: "美貌及智慧并重，工控与安全化身，谨以此纪录个人成长中技术沉淀和积累！"
+description: "谨以此纪录个人成长中技术沉淀和积累！"
 keyword: "剑思庭，工控, 安全, PLC, Network"
 url: "http://jiansiting.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
